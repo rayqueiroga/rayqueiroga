@@ -1,4 +1,6 @@
 - 👋Olá, eu sou @rayqueiroga
+- 💼 Empresária em transição de carreira
+- 👩🏻‍🎓 Formada em Direito e Pós Graduada em Direito Civil
 - 👀 Estou interessada na área de Front-end e Back-end
 - 🌱 Atualmente estou aprendendo: Python e Fundamentos de IA para Devs
 - 📫 LinkedIn: www.linkedin.com/in/rayanne-queiroga
